@@ -1,6 +1,6 @@
 # Bruno Amorim
 
-Platform and DevOps engineer at UnitedHealth Group (Optum) since 2022. Forward deployed engineer now, platform engineering and build and release before that. Open to remote contract (W2 or C2C), contract-to-hire and full-time roles.
+Forward deployed engineer at UnitedHealth Group (Optum). Before this role I did platform engineering and build and release there, starting in 2022. Open to remote contract (W2 or C2C), contract-to-hire and full-time roles.
 
 ## Work
 
